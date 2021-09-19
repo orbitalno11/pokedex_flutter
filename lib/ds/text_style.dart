@@ -16,6 +16,10 @@ const TextStyle text40 = TextStyle(fontSize: 40);
 const TextStyle text44 = TextStyle(fontSize: 44);
 const TextStyle text48 = TextStyle(fontSize: 48);
 
+const TextStyle header14Text =
+    TextStyle(fontSize: 14, fontWeight: FontWeight.bold);
+const TextStyle header16Text =
+TextStyle(fontSize: 16, fontWeight: FontWeight.bold);
 const TextStyle header18Text =
     TextStyle(fontSize: 18, fontWeight: FontWeight.bold);
 const TextStyle header24Text =
